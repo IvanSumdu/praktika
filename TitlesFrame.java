@@ -13,7 +13,7 @@ extends JFrame {
     private void initUI() {
         this.setTitle("\u041a\u0440\u0438\u0432\u044b\u0435 \u0444\u0438\u0433\u0443\u0440\u044b");
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        this.add(new TitlesPanel(14));
+        this.add(new TitlesPanel(34));
         this.setSize(350, 350);
         this.setLocationRelativeTo(null);
     }
